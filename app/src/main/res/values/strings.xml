@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LokasiERek</string>
+    <string name="access_token">pk.eyJ1IjoiYW5kaWthaG1hZHIiLCJhIjoiY2p3MHdjdWVuMGZueTQzcGtxMXY3ZjEzaCJ9.aVBeWNqmgnORcxXVumdUFw</string>
 </resources>

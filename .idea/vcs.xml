@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Coba/DSC PENS" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Coba/DSC PENS/Android/QuizBotDialogflow" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Coba/DTW/DTWCatalogApps" vcs="Git" />
